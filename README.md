@@ -1,7 +1,10 @@
 ### Hi there 👋
-My nickname is "UnsaltyPotatochip".
-I'm interested in A.I. science! [GmailPixelArtGIF](https://github.com/UnsaltyPotatochip/UnsaltyPotatochip/assets/106855808/974d62ea-75af-497c-b62e-fb01c1a25bc8)
+My nickname is "UnsaltyPotatochip".🍟🥔
+I'm interested in A.I. science!💻
+I'm still Junior Devleoper, but i 'will' be successfully A.I. developer.😎
+✨Where there is no vision, there is no hope✨(lyrics by VMC's 'vision')
 
+### So, Welcome! 😁
 
 <!--
 **UnsaltyPotatochip/UnsaltyPotatochip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
