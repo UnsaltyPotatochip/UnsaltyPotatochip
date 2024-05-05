@@ -1,7 +1,8 @@
 ### Hi there 👋
 My nickname is "UnsaltyPotatochip".🍟🥔  
 I'm interested in A.I. science!💻  
-I'm still Junior Devleoper, but i 'will' be successfully A.I. developer.😎  
+Now I'm still Junior Devleoper, but i 'will' be successfully A.I. developer.😎  
+Also i'm interseted in Game Develop, and Backend Develop too.🖥️  
 ✨Where there is no vision, there is no hope✨(lyrics by VMC's 'vision')  
   
 ### So, Welcome! 😁  
